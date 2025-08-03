@@ -21,7 +21,7 @@ const projects = [
     description: 'A TypeScript-based Next.js app simulating elevator movement, requests, and passenger flow in real time, with a clean UI, intelligent queueing, and visual feedback using Tailwind CSS and ShadCN UI.',
     imageSource: "/ElevatorSim-dashboard.png",
     tags: ['React', 'Next.js', 'Typescript', 'Tailwind CSS', 'ShadCN UI', 'CSS Transitions'],
-    liveUrl: '#',
+    liveUrl: 'https://elevator-sim-2hz6.vercel.app/',
     repoUrl: '#', 
     imageHint: 'kanban board',
   },
