@@ -12,7 +12,7 @@ const projects = [
       'A responsive Next.js app that helps students search, and save U.S universities, with AI-based recommendations, secure Firebase auth, and real-time data from the College Scorecard API.',
     imageSource: "/Universe-dashboard.png",
     tags: ['Next.js', 'React', 'Typescript', 'Tailwind CSS', 'Firebase', 'API'],
-    liveUrl: '#',
+    liveUrl: 'https://universe-ashy.vercel.app/',
     repoUrl: '#',
     imageHint: 'online store',
   },
