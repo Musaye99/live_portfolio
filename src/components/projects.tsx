@@ -30,7 +30,7 @@ const projects = [
     description: 'An AI tip calculator built with Next.js and TypeScript that helps users compute tips based on service quality and split bills among people, featuring tip recommendations.',
     imageSource: "/TipSplit1.png",
     tags: ['React', 'Next.js', 'Typescript', 'Tailwind CSS', 'Google AI'],
-    liveUrl: '#',
+    liveUrl: 'https://tip-split-xi.vercel.app/',
     repoUrl: '#',
     imageHint: 'writing article',
   },
